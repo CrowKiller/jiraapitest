@@ -1,0 +1,24 @@
+{
+  "update": {},
+  "fields": {
+    "summary": "something's wrong",
+    "issuetype": {
+      "id": "10200"
+    },
+    "project": {
+      "id": "10302"
+    },
+    "priority": {
+      "id": "1"
+    },
+    "labels": [
+      "CrowKiller",
+      "blitz_test"
+    ],
+    "timetracking": {
+      "remainingEstimate": "5",
+      "originalEstimate": "10"
+    },
+    "duedate": "2019-05-11T00:00:00.000Z"
+  }
+}
